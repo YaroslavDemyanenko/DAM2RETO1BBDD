@@ -1,4 +1,4 @@
-package dam2Reto1BBDD;
+package baseDatos;
 
 public class Launcher {
 
